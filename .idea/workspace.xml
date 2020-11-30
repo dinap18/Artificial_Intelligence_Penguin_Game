@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81b3671c-8f78-46b9-99a3-4394fef25af5" name="Default Changelist" comment="" />
+    <list default="true" id="81b3671c-8f78-46b9-99a3-4394fef25af5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyPrecious_Pingpong_SuperDot_Dothanos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l0M9GfRm6MJ6KpSJjgXihiCAG8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,5 +39,19 @@
       <updated>1606729401987</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="239" key="Github.ShareDialog" timestamp="1606730653743">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="520" y="239" key="Github.ShareDialog/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1606730653743" />
+    <state x="449" y="46" key="Github.UntrackedFilesDialog" timestamp="1606730663393">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="449" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1606730663393" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1606731026422">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1606731026422" />
   </component>
 </project>
