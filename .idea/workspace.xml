@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81b3671c-8f78-46b9-99a3-4394fef25af5" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/SkipperAndFriends.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrecious_Gold Digger_Pingpong_Dothanos.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrecious_Gold Digger_Pingpong_Dothanos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataMining4" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606736163559</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1606738554262</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606738554262</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
@@ -92,6 +102,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="329" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1606736147142" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1610217575113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1608023063925" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610217575113" />
     <state x="520" y="239" key="Github.ShareDialog" timestamp="1606730653743">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -100,10 +115,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="449" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1606730663393" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1606736165782">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1606738555952">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1606731026422" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1606736165782" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1606738555952" />
   </component>
 </project>
