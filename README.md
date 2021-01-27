@@ -1,6 +1,7 @@
 Intelligence agents built using collaborative methods for writing code, advanced programming in Python, reverse engineering, and implementation of algorithms to compete in
 the Skillz programming competition. 
 The bots competed against agents written by the game's development team and agents written by bots written by classmates in different envoirments which changed throughout the semester.
-https://user-images.githubusercontent.com/57219508/106038532-bde87100-60e0-11eb-87c7-59d16c27104a.png
-https://user-images.githubusercontent.com/57219508/106038559-c50f7f00-60e0-11eb-8b3d-d2ed2262ff48.png
-https://user-images.githubusercontent.com/57219508/106038590-d0fb4100-60e0-11eb-8842-390e66957e97.png
+![image](https://user-images.githubusercontent.com/57219508/106039366-b6759780-60e1-11eb-8856-4321aeaf07a9.png)
+![image](https://user-images.githubusercontent.com/57219508/106039417-c42b1d00-60e1-11eb-821e-15b3f1bec6d3.png)
+![image](https://user-images.githubusercontent.com/57219508/106039550-eb81ea00-60e1-11eb-8897-1dac6e83ecb5.png)
+
